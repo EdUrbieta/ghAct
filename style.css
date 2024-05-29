@@ -1,0 +1,20 @@
+body {
+    background-color: darkslategray;
+}
+
+.container {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.center {
+    
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 45%;
+    height: fit-content;
+    background-color: aliceblue;
+    box-shadow: 4px 8px 5px rgb(68, 68, 68);
+}
